@@ -22,14 +22,6 @@ I enjoy building **APIs, Bots, and Web Applications** while exploring new techno
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,linux,mongodb,vscode"/>
 </p>
 
-🧠 Coding Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Xrahat-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xrahat-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 🔥 GitHub Streak
 
 <p align="center">
