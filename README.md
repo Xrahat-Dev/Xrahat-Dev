@@ -54,21 +54,11 @@ I enjoy building **APIs, Bots, and Web Applications** while exploring new techno
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://facebook.com/61582708907708" target="blank">
-<img align="center" src="https://i.imgur.com/MJo3BM9.png" height="35" width="35" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://m.me/61582708907708" target="blank">
-<img align="center" src="https://i.imgur.com/jfGbvMo.png" height="35" width="35" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://t.me/education_of_purpose" target="blank">
-<img align="center" src="https://i.imgur.com/W6GhZVa.png" height="35" width="35" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.tiktok.com/@where.is.she15?_r=1&_t=ZS-95HDoE1XKAG" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/3046/3046126.png" height="35" width="35" />
-</a>
+<p align="center">  
+  <a href="https://facebook.com/61582708907708"><img src="https://i.postimg.cc/pLHy2CJm/𝐑𝐀𝐇𝐀𝐓-𝐈𝐒𝐋𝐀𝐌.gif" alt="Facebook" width="48"></a>  
+  <a href="https://t.me/education_of_purpose"><img src="https://i.postimg.cc/g0BY6H8Z/𝐑𝐀𝐇𝐀𝐓-𝐈𝐒𝐋𝐀𝐌.gif" alt="Telegram" width="46"></a>  
+  <a href="https://youtube.com/@messenger_bot"><img src="https://i.postimg.cc/dVsvHx90/𝐑𝐀𝐇𝐀𝐓-𝐈𝐒𝐋𝐀𝐌.gif" alt="YouTube" width="60"></a>  
+</p>
 
 </p>
 
